@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://skd.aankhepoetry.in/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://notme.aankhepoetry.in/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://skd.aankhepoetry.in/</loc>
+<loc>https://notme.aankhepoetry.in/</loc>
 </url>
 <url>
-<loc>https://skd.aankhepoetry.in/srd-aag.html</loc>
+<loc>https://notme.aankhepoetry.in/srd-aag.html</loc>
 <lastmod>2025-12-25T09:31:06+05:30</lastmod>
 <image:image>
-<image:loc>https://skd.aankhepoetry.in/media/posts/7/Gemini_Generated_Image_jwjqi7jwjqi7jwjq.png</image:loc>
+<image:loc>https://notme.aankhepoetry.in/media/posts/7/Gemini_Generated_Image_jwjqi7jwjqi7jwjq.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://skd.aankhepoetry.in/taalaab-2.html</loc>
+<loc>https://notme.aankhepoetry.in/taalaab-2.html</loc>
 <lastmod>2025-12-25T09:31:02+05:30</lastmod>
 <image:image>
-<image:loc>https://skd.aankhepoetry.in/media/posts/5/Gemini_Generated_Image_lhuz7nlhuz7nlhuz.png</image:loc>
+<image:loc>https://notme.aankhepoetry.in/media/posts/5/Gemini_Generated_Image_lhuz7nlhuz7nlhuz.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://skd.aankhepoetry.in/tippanni.html</loc>
+<loc>https://notme.aankhepoetry.in/tippanni.html</loc>
 <lastmod>2025-12-25T07:59:04+05:30</lastmod>
 </url>
 </urlset>
